@@ -1,0 +1,60 @@
+[
+  {
+    "id": "1",
+    "title": "Pizza de Pepperoni",
+    "price": 49.90,
+    "description": "Deliciosa pizza de pepperoni",
+    "image": "https://static.tildacdn.com/tild6263-6431-4439-a565-303336323963/image_27.jpg",
+    "favorited": false
+  },
+  {
+    "id": "2",
+    "title": "Product 1",
+    "price": 100,
+    "description": "This is a description",
+    "image": "https://static.tildacdn.com/tild6333-6664-4231-a366-653262316334/image_26.jpg",
+    "favorited": false
+  },{
+    "id": "3",
+    "title": "Product 1",
+    "price": 100,
+    "description": "This is a description",
+    "image": "https://static.tildacdn.com/tild6635-6231-4334-b332-356662626162/image_26-1.jpg",
+    "favorited": false
+  },{
+    "id": "4",
+    "title": "Product 1",
+    "price": 100,
+    "description": "This is a description",
+    "image": "https://static.tildacdn.com/tild3635-6262-4733-b530-616434613661/image_26.jpg",
+    "favorited": false
+  },{
+    "id": "5",
+    "title": "Product 1",
+    "price": 100,
+    "description": "This is a description",
+    "image": "https://static.tildacdn.com/tild3330-6530-4231-b263-343639333639/image_26-2.jpg",
+    "favorited": false
+  },{
+    "id": "6",
+    "title": "Product 1",
+    "price": 100,
+    "description": "This is a description",
+    "image": "https://static.tildacdn.com/tild6137-3533-4238-a165-343365383036/image_26-3.jpg",
+    "favorited": false
+  },{
+    "id": "7",
+    "title": "Product 1",
+    "price": 100,
+    "description": "This is a description",
+    "image": "https://static.tildacdn.com/tild6533-3532-4761-b064-636664616230/image_26.jpg",
+    "favorited": false
+  },{
+    "id": "8",
+    "title": "Product 1",
+    "price": 100,
+    "description": "This is a description",
+    "image": "https://static.tildacdn.com/tild3234-6331-4862-a538-653132366638/image_27.jpg",
+    "favorited": false 
+  }
+]
