@@ -3,8 +3,7 @@ import { styled } from "@mui/material"
 
 
 export const Photo = styled('img')({
-  height: '180px',
-  width: '180px',
+  width: '157px',
   objectFit: 'cover',
   borderRadius: '50%',
   position: 'relative',
@@ -22,10 +21,19 @@ export const Description = styled('div')({
   fontSize: 13,
   fontWeight: 600,
   color: '#9e9b9b',
+  //elipsis after 2 lines
+  display: '-webkit-box',
+  WebkitLineClamp: 2,
+  WebkitBoxOrient: 'vertical',
+  overflow: 'hidden',
+  textOverflow: 'ellipsis',
+
 })
 
 export const Price = styled('div')({
   fontSize: 26,
+  marginTop: 'auto',
+  marginBottom: 50,
   fontWeight: 700,
 })
 
