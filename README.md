@@ -4,5 +4,6 @@ Esse projeto testa a implementação de conceitos de front-end em um website de 
 
 ## Como Iniciar
 
-1 - yarn
-2 - yarn dev
+```yarn```
+
+```yarn dev```
